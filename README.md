@@ -84,7 +84,6 @@ I’ve worked with **startups, solo founders, and long-term teams** — and I ad
 
 ## 📬 Contact
 
-- Upwork: *available on request*
 - GitHub: you’re already here 🙂
 
 If you’re looking for a developer who can **own a feature or a whole product** — feel free to reach out.
